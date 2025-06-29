@@ -5,3 +5,5 @@ runs
 wandb
 Zebra-test
 *.pt
+checkpoints
+__pycache__
